@@ -1,5 +1,6 @@
 1
 import random
+import jpg
 
 def print_board(board):
     """Prints the Tic-Tac-Toe board."""
